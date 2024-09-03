@@ -1,5 +1,3 @@
-# Hi there, I'm Tekalign Getachew! 👋
-
 Welcome to my GitHub profile! I'm a software developer with experience in various programming languages and frameworks. I specialize in building applications using Flutter, Vue, and Node.js, among other technologies. I'm passionate about coding and continuously learning new tools and practices.
 
 ## 🚀 About Me
@@ -13,14 +11,14 @@ Welcome to my GitHub profile! I'm a software developer with experience in variou
   - **Electric Billing Software**: Java
   - **Blood Bank Management Software**: Java, MySQL
   - **Energy Monitoring App**: Flutter
-  - **Hybrid App**: Flutter
+  - **hibir App**: Flutter
   - **carGo**: A platform to connect cargo cars with clients using Node.js, MongoDB, Flutter, and Vue
   - **House Rental Platform**: A platform connecting house renters with potential tenants
 
 ## 🌟 Current Projects
 
 - **carGo**: Developing a platform to connect cargo cars with clients using Node.js, MongoDB, Flutter, and Vue.
-- **House Rental Platform**: Building a platform to facilitate house rentals.
+- **HouseLink**: Building a platform to facilitate house rentals.
 
 ## 📫 How to Reach Me
 
