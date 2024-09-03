@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a software developer with experience in variou
 
 ## 📫 How to Reach Me
 
-- [LinkedIn]([https://www.linkedin.com/in/tekaligngetachew](https://www.linkedin.com/in/tekalign-getachew-9305322a6/)
+- [LinkedIn](https://www.linkedin.com/in/tekalign-getachew-9305322a6/)
 - [Telegram](https://t.me/tekalignGA)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Happy coding!
