@@ -2,7 +2,7 @@ Welcome to my GitHub profile! I'm a software developer with experience in variou
 
 ## 🚀 About Me
 
-- 💻 **Skills**: C++, Java, Python, HTML5/CSS3, JavaScript, PHP, Flutter, Vue
+- 💻 **Skills**: C++, Java, Python, HTML/CSS, JavaScript, PHP, Flutter, Vue
 - 📚 **Knowledge**: Machine Learning, Database Design
 - 🛠️ **Databases**: MySQL, Oracle, Firebase, MongoDB
 - 🛠️ **APIs**: Node.js/Express
