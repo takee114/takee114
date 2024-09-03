@@ -1,13 +1,13 @@
-```markdown
 # Hi there, I'm Tekalign Getachew! 👋
 
-Welcome to my GitHub profile! I'm a software developer with experience in various programming languages and frameworks. I specialize in building applications using C++, Java, Python, Flutter, and more. I'm passionate about coding and continuously learning new technologies.
+Welcome to my GitHub profile! I'm a software developer with experience in various programming languages and frameworks. I specialize in building applications using Flutter, Vue, and Node.js, among other technologies. I'm passionate about coding and continuously learning new tools and practices.
 
 ## 🚀 About Me
 
-- 💻 **Skills**: C++, Java, Python, HTML5/CSS3, JavaScript, PHP, Flutter
-- 📚 **Knowledge**: Machine Learning, Database Design (MySQL, Firebase), Relational Database Models
-- 🛠️ **Frameworks**: Laravel, Node.js, Django, React
+- 💻 **Skills**: C++, Java, Python, HTML5/CSS3, JavaScript, PHP, Flutter, Vue
+- 📚 **Knowledge**: Machine Learning, Database Design
+- 🛠️ **Databases**: MySQL, Oracle, Firebase, MongoDB
+- 🛠️ **APIs**: Node.js/Express
 - 📈 **Projects**:
   - **Student Information System**: HTML, CSS, JavaScript, PHP, Oracle
   - **Electric Billing Software**: Java
@@ -17,11 +17,10 @@ Welcome to my GitHub profile! I'm a software developer with experience in variou
   - **carGo**: A platform to connect cargo cars with clients using Node.js, MongoDB, Flutter, and Vue
   - **House Rental Platform**: A platform connecting house renters with potential tenants
 
-- **Mobile Phone Repair Course**: Preparing lecture notes and resources.
 ## 🌟 Current Projects
-- **carGo**: A platform to connect cargo cars with clients using Node.js, MongoDB, Flutter, and Vue
-  - **House Rental Platform**: A platform connecting house renters with potential tenants
-- **House Rental Platform**: Developing a platform to facilitate house rentals.
+
+- **carGo**: Developing a platform to connect cargo cars with clients using Node.js, MongoDB, Flutter, and Vue.
+- **House Rental Platform**: Building a platform to facilitate house rentals.
 
 ## 📫 How to Reach Me
 
